@@ -18,3 +18,7 @@ Building useful things that solve real problems, with code + AI.
   > Convert between naming conventions (camelCase, snake_case, etc.). Supports one-click conversion, cycling through cases, batch replacement, right-click context menus, keyboard shortcuts, path separator transformation, and more
 - [Schema Editor](https://github.com/zhang-brook/schema-editor) <sup><sub>↙</sub> Web App</sup> - *Design your database schema visually, without the setup*
   > Design database schemas visually in your browser, get real-time SQL for multiple dialects, no install needed
+
+## 🎬 **Creator Tools**
+- [Web Teleprompter](https://github.com/zhang-brook/web-teleprompter) <sup><sub>↙</sub> Web App</sup> - *Hands-free teleprompter that follows your voice*
+  > A browser-based teleprompter for recording and live streaming. Scroll at a fixed speed, or let it auto-follow your speech via the Web Speech API. Features a draggable floating window, adjustable reading line, full-screen modes, theme support, and local config save/import-export
