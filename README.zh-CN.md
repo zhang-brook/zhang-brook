@@ -21,5 +21,5 @@
   > 在浏览器中可视化设计数据库架构，实时生成多种 SQL 方言语句，无需安装，开箱即用
 
 ## 🎬 **自媒体工具**
-- [Web Teleprompter](https://github.com/zhang-brook/web-teleprompter) <sup><sub>↙ Web 应用</sub></sup> - 语音跟随的网页提词器，口播更从容
+- [🚧 **WIP**] [Web Teleprompter](https://github.com/zhang-brook/web-teleprompter) <sup><sub>↙ Web 应用</sub></sup> - 语音跟随的网页提词器，口播更从容
   > 基于浏览器的提词器，适用于视频录制与直播。支持固定速度滚动，或通过 Web Speech API 语音识别自动跟随口播；提供可拖拽浮窗、可调朗读线、全屏模式、深浅色主题，并支持配置本地保存与导入导出

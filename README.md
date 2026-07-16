@@ -20,5 +20,5 @@ Building useful things that solve real problems, with code + AI.
   > Design database schemas visually in your browser, get real-time SQL for multiple dialects, no install needed
 
 ## 🎬 **Creator Tools**
-- [Web Teleprompter](https://github.com/zhang-brook/web-teleprompter) <sup><sub>↙</sub> Web App</sup> - *Hands-free teleprompter that follows your voice*
+- [🚧 **WIP**] [Web Teleprompter](https://github.com/zhang-brook/web-teleprompter) <sup><sub>↙</sub> Web App</sup> - *Hands-free teleprompter that follows your voice*
   > A browser-based teleprompter for recording and live streaming. Scroll at a fixed speed, or let it auto-follow your speech via the Web Speech API. Features a draggable floating window, adjustable reading line, full-screen modes, theme support, and local config save/import-export
