@@ -6,6 +6,8 @@
 
 用代码 + AI，打造解决真实问题的实用工具。
 
+🌐 **个人网站：** [www.brookzhang.com](https://www.brookzhang.com/)
+
 ## 🌟 **精选项目**
 - [🚧 **开发中**] [@spidermemos](https://github.com/spidermemos) <sup><sub>↙ 知识管理</sub></sup> - 更优雅地收集和连接你的想法
   > 项目正在积极开发中

@@ -5,6 +5,8 @@ English | [中文](README.zh-CN.md)
 
 Building useful things that solve real problems, with code + AI.
 
+🌐 **Website:** [www.brookzhang.com](https://www.brookzhang.com/en/)
+
 ## 🌟 **Featured Projects**
 - [🚧 **WIP**] [@spidermemos](https://github.com/spidermemos) - *A better way to collect and connect ideas*
   > Currently in active development
