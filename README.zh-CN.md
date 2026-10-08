@@ -13,6 +13,8 @@
   > 项目正在积极开发中
 
 ## 🔮 **日常效率**
+- [北京时间播报器](https://github.com/zhang-brook/time-announcer) <sup><sub>↙ Windows 应用</sub></sup> - 到点用中文语音大声报时，省心不漏点
+  > Windows 桌面小工具，到点用中文语音播报北京时间，支持整点 / 半点 / 自定义时刻与番茄钟；静音时也能自动调高音量播报后还原，带图形界面与开机自启
 - [🚧 **开发中**] [Tab Sync](https://github.com/zhang-brook/tab-sync) <sup><sub>↙ Chrome 扩展</sub></sup> - 释放浏览器内存，重塑你的工作流
   > 关闭但记录标签页以释放内存，支持嵌套分组管理，实现跨设备同步与恢复（支持自托管）
 

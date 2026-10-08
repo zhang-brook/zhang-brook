@@ -12,6 +12,8 @@ Building useful things that solve real problems, with code + AI.
   > Currently in active development
 
 ## 🔮 **Daily Productivity**
+- [Time Announcer](https://github.com/zhang-brook/time-announcer) <sup><sub>↙</sub> Windows App</sup> - *Hear Beijing time spoken aloud, right on schedule*
+  > A Windows desktop tool that announces Beijing time in Chinese voice at the hour, half-hour, or custom times, with a Pomodoro timer. Auto-raises volume even when muted, has a GUI and starts on boot
 - [🚧 **WIP**] [Tab Sync](https://github.com/zhang-brook/tab-sync) <sup><sub>↙</sub> Chrome Extension</sup> - *Reclaim your browser memory and organize your workflow*
   > Suspend tabs you pick to free memory, organize in nested groups, sync & restore across devices (self-hostable)
 
