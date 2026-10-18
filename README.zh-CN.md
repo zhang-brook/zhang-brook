@@ -21,8 +21,10 @@
 ## 🔧 **开发者工具**
 - [Variable Conversion](https://github.com/zhang-brook/variable-conversion-vscode-extension) <sup><sub>↙ VS Code 扩展</sub></sup> - 变量名转换，随心所欲，一触即发
   > 轻松转换各种命名规范（camelCase、snake_case 等）。支持一键转换、循环切换、批量替换、右键菜单、键盘快捷键以及路径分隔符转换等功能。
-- [Schema Editor](https://github.com/zhang-brook/schema-editor) <sup><sub>↙ Web 应用</sub></sup> - 可视化设计数据库架构，无需繁琐配置
-  > 在浏览器中可视化设计数据库架构，实时生成多种 SQL 方言语句，无需安装，开箱即用
+- [Schema Editor](https://github.com/zhang-brook/schema-editor) <sup><sub>↙ Web / 桌面应用</sub></sup> - 可视化设计数据库架构，无需繁琐配置
+  > 可视化设计 MySQL / PostgreSQL / SQLite 数据库结构，实时预览建表 SQL。支持浏览器与 Windows / macOS / Linux 桌面端（可应用内更新）；可直接打开本地文件夹，或挂载 GitHub / Gitee / 自建 Gitea 仓库子目录，并提供深浅色主题、多表标签页与增量保存
+- [🚧 **开发中**] [GitTreeDesk](https://github.com/GitTreeX/GitTreeDesk) <sup><sub>↙ 桌面应用</sub></sup> - 面向 monorepo 与 worktree 的工作区优先 Git 工作台
+  > 将任意文件夹作为工作区打开，自动发现其中所有 Git 仓库与 worktree，并在同一棵树中统一管理。支持提交、分支、合并、变基、贮藏、拣选，以及提交图谱与 Monaco diff 编辑器；基于 Electron 构建，支持 Windows / macOS / Linux
 
 ## 🎬 **自媒体工具**
 - [🚧 **WIP**] [Web Teleprompter](https://github.com/zhang-brook/web-teleprompter) <sup><sub>↙ Web 应用</sub></sup> - 语音跟随的网页提词器，口播更从容
